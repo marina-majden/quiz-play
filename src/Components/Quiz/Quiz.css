@@ -1,0 +1,106 @@
+h1 {
+  font-size: clamp(2.375rem, 5vw + 1rem, 4.875rem);
+  line-height: 1.1;
+  font-family: Silkscreen, monospace;
+  font-weight: 700;
+  color: rgb(46, 7, 74);
+  text-shadow: 2px 2px 1px lightgray, 1px 1px 1px black;
+  text-rendering: optimizeLegibility;
+}
+h2 {
+  font-size: clamp(1.375rem, 1vw + 1rem, 3rem);
+  line-height: 1.1;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+  color: whitesmoke;
+  text-shadow: 1px 1px 1px lightgray;
+  padding: 1rem;
+  background-color: rgba(53, 6, 86, 0.871);
+}
+ul li {
+  list-style-type: none;
+  list-style-position: inside;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  padding: 0.5rem 1rem;
+  margin: 0.65rem;
+  color: whitesmoke;
+  background-color: rgba(47, 79, 79, 0.865);
+  border: 1px solid rgb(26, 63, 63);
+  text-rendering: optimizeLegibility;
+  border-radius: 5px;
+  text-shadow: 1px 1px 0 black;
+  cursor: pointer;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-items: center;
+  text-justify: inter-word;
+  align-items: center;
+  align-content: center;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 1.1rem;
+  width: 100%;
+  height: 100vh;
+  padding: 1em;
+  margin: 0 auto;
+}
+hr {
+  width: 100%;
+  border: 5px solid rgb(46, 7, 74);
+}
+
+ul li {
+  list-style: "none";
+  list-style: "➽ ";
+  list-style-position: inside;
+  font-size: clamp(1rem, 1vw + 1rem, 2.25rem);
+  line-height: 1.4;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  padding: 0.5rem 1rem;
+  margin: 0.6rem;
+  color: whitesmoke;
+}
+
+button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.7rem 2rem;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  color: darkslategrey;
+  backface-visibility: hidden;
+  border: 2px solid darkslategrey;
+  border-radius: 3rem;
+  margin-bottom: 1rem;
+}
+button {
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: rgb(32, 15, 45);
+  color: darkslategrey;
+}
+
+.correct {
+  background-color: rgba(46, 139, 86, 0.878);
+  color: white;
+  border: 2px solid green;
+}
+.wrong {
+  background-color: rgba(139, 0, 0, 0.579);
+  color: white;
+  border: 2px solid darkred;
+}
