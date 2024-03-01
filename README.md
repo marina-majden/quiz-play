@@ -24,17 +24,17 @@
 <p align="left">First, clone this repository:
 
 <!-- start:code block -->
-# Clone this repository
+ **Clone this repository**
 git clone https://github.com/marina-majden/quiz-play.git
 cd quiz-play    
 
-# Install React Vite
+ **Install React Vite**
 npm create vite@latest
 
-# Install dependencies
+ **Install dependencies**
 npm install
 
-# Run the app in the development mode
+ **Run the app in the development mode**
 npm run dev
 <!-- end:code block -->
 
