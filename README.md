@@ -23,7 +23,6 @@
 
 <p align="left">First, clone this repository:
 
-<!-- start:code block -->
  **Clone this repository**
 git clone https://github.com/marina-majden/quiz-play.git
 cd quiz-play    
@@ -36,7 +35,7 @@ npm install
 
  **Run the app in the development mode**
 npm run dev
-<!-- end:code block -->
+
 
 </p>
 
