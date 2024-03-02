@@ -44,13 +44,9 @@ npm run dev
 
 ### I am Marina Majdenić, developer from Zagreb (Croatia), equally amazed with the power of computing and program-logic, as with the aesthetics and designes of user interface.
 ### Open for collaboration and job opportunities!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marina-majden&label=Profile%20views&color=0e75b6&style=flat" alt="marina-majden" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marina-majden" alt="marina-majden" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marina-majden&show_icons=true&locale=en&layout=compact" alt="marinica-mashinica" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marina-majden&show_icons=true&locale=en" alt="marinica-mashinica" /></p>
 
 - 📚 I passionately advocate active **lifelong learning**; I think it's great for keeping us motivated and our brain sharp...
 - 🖖... while it also improves our sense of self-worth and expands our ways of contributing to society.
