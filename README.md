@@ -3,7 +3,7 @@
 </h3>
 
 # Quiz App v.1.0
-## React + Vite App / Play it [here](https://marina-majden.github.io/quiz-play)
+## React + Vite App / Play it >>>[here](https://marina-majden.github.io/quiz-play)!<<<
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmarina-majden.github.io%2Fquiz-play%2F&style=flat&labelColor=blue)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fmarina-majden.github.io%2Fquiz-play)
 ![GitHub top language](https://img.shields.io/github/languages/top/marina-majden/quiz-play?logo=github&labelColor=yellow)
